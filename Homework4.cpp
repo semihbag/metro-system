@@ -1,6 +1,5 @@
-//Student ID: 150120070
 //Name: Semih
-//Surname: Bað
+//Surname: BaÄŸ
 //Purpose: Write a program that suggests a route to get from a starting point to a target point on a metro line.
 
 // Main function is at bottom
